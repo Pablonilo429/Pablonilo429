@@ -1,4 +1,4 @@
-## Pablo de Oliveira / Nilopolitana, aqui!
+## Pablo de Oliveira, aqui!
 <div align="center">
   <a href="https://github.com/Pablonilo429">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablonilo429&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
